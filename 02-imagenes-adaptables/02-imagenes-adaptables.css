@@ -3,6 +3,7 @@ body {
     font-size: 16px;
     max-width: 1024px;
 }
+
 article {
     background-color: blue;
     padding: 1em;
@@ -11,6 +12,7 @@ article {
     box-sizing: border-box;
     font-size: 1.2em;
 }
+
 aside {
     background-color: red;
     padding: 1em;
@@ -19,6 +21,7 @@ aside {
     box-sizing: border-box;
     font-size: 1em;
 }
+
 .fluid-image {
     max-width: 500px;
     min-width: 250px;
